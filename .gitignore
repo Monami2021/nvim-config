@@ -5,3 +5,5 @@ undo/
 
 # Lazy.nvim plugin data (others should download their own)
 lazy-lock.json
+nvim/init.vim.backup
+nvim/coc-settings.json
