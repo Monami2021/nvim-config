@@ -21,8 +21,8 @@ Ensure you have the following installed on your system:
 
 ### 2. Setup
 ```bash
-# Clone the config into your Neovim folder
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git) ~/.config/nvim
+# Clone the config into your Neovim folder if using ssh
+git clone git@github.com:monamijer/nvim-config.git ~/.config/nvim
 
 # Open Neovim
 nvim
